@@ -28,3 +28,7 @@ results
 
 npm-debug.log
 node_modules
+
+diagnostics.zip
+diagnostics/
+azure.err
