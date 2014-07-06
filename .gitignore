@@ -32,3 +32,6 @@ node_modules
 diagnostics.zip
 diagnostics/
 azure.err
+
+public/app.js
+public/style.min.css
